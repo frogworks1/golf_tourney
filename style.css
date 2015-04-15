@@ -1,0 +1,179 @@
+/**CSS**/
+
+#section1 {
+    display: block;
+    background-color: #83CBE5;
+    height: 20px;
+    line-height: 10px;
+    padding: 35px 18px;
+    font-size: 80px;
+    color: #000;
+    margin-bottom: 1px;
+    clear:both;
+	text-align:center;
+}
+
+#timer {
+    display: block;
+    background-color: #FFFFFF;
+    height: 15px;
+    line-height: 15px;
+/*     padding: 35px 18px; */
+    font-size: 40px;
+    color: #000;
+    margin-bottom: 1px;
+    clear:both;
+	text-align:center;
+}
+
+#teams {
+    display: block;
+    background-color: #98FB98;
+    height: 80px;
+    line-height: 75px;
+/*     padding: 35px 18px; */
+    font-size: 80px;
+    color: #000;
+    margin-bottom: 1px;
+    clear:both;
+	text-align:center;
+}
+
+#names {
+    display: block;
+    background-color: #ffffff;
+/*     height: 80px; */
+    line-height: 75px;
+/*     padding: 35px 18px; */
+    font-size: 30px;
+    color: #000;
+    margin-bottom: 1px;
+    clear:both;
+	text-align:left;
+}
+
+#team1 {
+    display: block;
+    background-color: #83CBE5;
+    height: 50px;
+    line-height: 75px;
+/*     padding: 35px 18px; */
+    font-size: 20px;
+    color: #000;
+    margin-bottom: 5px;
+/*     margin-top: 10px; */
+    clear:both;
+	text-align:left;
+}
+
+#team2 {
+    display: block;
+    background-color: #D0D0D0;
+    height: 50px;
+    line-height: 75px;
+/*     padding: 35px 18px; */
+    font-size: 20px;
+    color: #000;
+    margin-bottom: 5px;
+/*     margin-top: 10px; */
+    clear:both;
+	text-align:left;
+}
+
+#team3{
+    display: block;
+    background-color: #83CBE5;
+    height: 50px;
+    line-height: 75px;
+/*     padding: 35px 18px; */
+    font-size: 20px;
+    color: #000;
+    margin-bottom: 5px;
+/*     margin-top: 10px; */
+    clear:both;
+	text-align:left;
+}
+
+#team4 {
+    display: block;
+    background-color: #D0D0D0;
+    height: 50px;
+    line-height: 75px;
+/*     padding: 35px 18px; */
+    font-size: 20px;
+    color: #000;
+    margin-bottom: 5px;
+/*     margin-top: 10px; */
+    clear:both;
+	text-align:left;
+}
+
+#team5 {
+    display: block;
+    background-color: #83CBE5;
+    height: 50px;
+    line-height: 75px;
+/*     padding: 35px 18px; */
+    font-size: 20px;
+    color: #000;
+    margin-bottom: 5px;
+/*     margin-top: 10px; */
+    clear:both;
+	text-align:left;
+}
+
+#team6 {
+    display: block;
+    background-color: #D0D0D0;
+    height: 50px;
+    line-height: 75px;
+/*     padding: 35px 18px; */
+    font-size: 20px;
+    color: #000;
+    margin-bottom: 5px;
+/*     margin-top: 10px; */
+    clear:both;
+	text-align:left;
+}
+
+#team7 {
+    display: block;
+    background-color: #83CBE5;
+    height: 50px;
+    line-height: 75px;
+/*     padding: 35px 18px; */
+    font-size: 20px;
+    color: #000;
+    margin-bottom: 5px;
+/*     margin-top: 10px; */
+    clear:both;
+	text-align:left;
+}
+
+#team8 {
+    display: block;
+    background-color: #D0D0D0;
+    height: 50px;
+    line-height: 75px;
+/*     padding: 35px 18px; */
+    font-size: 20px;
+    color: #000;
+    margin-bottom: 5px;
+/*     margin-top: 10px; */
+    clear:both;
+	text-align:left;
+}
+
+#contact {
+    display: block;
+    background-color: #ffffff;
+/*     height: 50px; */
+    line-height: 30px;
+/*     padding: 35px 18px; */
+    font-size: 20px;
+    color: #000;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    clear:both;
+	text-align:left;
+}
